@@ -64,10 +64,6 @@ python tools/convert_oup_occ_nuscenes_to_kitti_init.py \
 ```bash
 export NCCL_P2P_DISABLE=1
 export NCCL_IB_DISABLE=1
-
-sudo nvidia-smi -pm 1
-sudo nvidia-smi -i 0 -pl 220
-sudo nvidia-smi -i 1 -pl 220
 ```
 
 训练：
