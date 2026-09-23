@@ -1,3 +1,4 @@
+# 相关文件可参考EFFOCC:https://github.com/synsin0/effocc
 # SSCBench-KITTI / KITTI-360 OUP-Occ 适配说明
 
 数据检查：
